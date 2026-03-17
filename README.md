@@ -331,7 +331,7 @@ And for the hiring managers who know that the best person for the job isn't alwa
 
 ---
 
-*Open Degree Framework — github.com/[your-org]/open-degree-framework*
+*Open Degree Framework — github.com/trentbigelow/open-degree-framework*
 *Started: March 2026 | Maintained by the community | CC BY 4.0*
 
 *"The credential is the evidence. The evidence should be checkable."*
