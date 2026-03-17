@@ -644,5 +644,5 @@ All learners' credentials reference the framework version active at the time of 
 ---
 
 *Open Degree Framework — FRAMEWORK.md*
-*github.com/[your-org]/open-degree-framework*
+*github.com/trentbigelow/open-degree-framework*
 *CC BY 4.0 — Fork it. Build on it. Open source it back.*
